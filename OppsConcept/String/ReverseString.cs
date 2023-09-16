@@ -21,8 +21,12 @@ namespace OppsConcept.String
             for(int i=0; i<strLen; i++)
             {
                 charr[i] = str[strLen-i-1]  ;
+               
+
             }
             Console.WriteLine(charr);
+            
+
         }
     }
 }
